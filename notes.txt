@@ -1,1 +1,6 @@
 ### run python file in terminal -   python3 test.py
+***git status
+git add * 
+or git filename
+git commit -m "message"
+git push
